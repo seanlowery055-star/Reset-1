@@ -1,0 +1,6 @@
+{
+  "name": "Account Phone Sync",
+  "description": "A real-time synchronization dashboard that connects your account and seamlessly links your computer and phone to share notes, clipboard text, and transfer links in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
